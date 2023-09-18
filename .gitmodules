@@ -1,0 +1,9 @@
+[submodule "rust-protobuf-networking-protos"]
+	path = rust-protobuf-networking-protos
+	url = https://github.com/AktugHakan/rust-protobuf-networking-protos
+[submodule "rust-protobuf-networking-client"]
+	path = rust-protobuf-networking-client
+	url = https://github.com/AktugHakan/rust-protobuf-networking-client
+[submodule "rust-protobuf-networking-server"]
+	path = rust-protobuf-networking-server
+	url = https://github.com/AktugHakan/rust-protobuf-networking-server
